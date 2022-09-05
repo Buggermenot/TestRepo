@@ -1,2 +1,2 @@
 # Sample Project
-#### [Google]
+#### Hello World
